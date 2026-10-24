@@ -1,0 +1,13 @@
+=== IMMEDIATE TASKS
+- Researching different genes (Prachi)
+- - Leaf shape, petal shape, colors
+
+- Creating functions and equations for crossbreeding (Dennis)
+- - Based on prior mathematical structures
+
+- Finding past research projects for comparison
+
+- Figuring out a road map
+
+== LATER TASKS
+- Creating a generalize data structure for recording plants
