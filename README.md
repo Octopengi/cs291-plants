@@ -1,7 +1,7 @@
 # Untitled Plant Breed
 
 ## Problem Statement
-Very often, when students are studying genetics, it can be difficult to understand the full extent as to how genes behave and blend when parents produce offspring. Despite early on being taught about dominant and nondominant genes, is it still commonly misunderstood that many kinds of genes are a fifty-fifty split in offspring.
+Very often, when students are studying genetics, it can be difficult to understand the full extent as to how genes behave and blend when parents produce offspring. Despite early on being taught about dominant and nondominant genes, it is still commonly misunderstood that many kinds of genes are a fifty-fifty split in offspring.
 
 ## Solution
 Nu-User is developing an educational piece of software that simulates the crossbreeding of different species of flowers, permitting users to freely crossbreed different flowers and witness the outcomes. Everytime a crossbreed is produced, the program will walk the user through how each gene participated in creating the offspring, as well as pointing out any discrepancies the user may find.
@@ -17,8 +17,10 @@ This product is intended not just for students, but for any individual who is cu
 ## How will we make money?
 TBD
 
-## MVP Features
-TBD
+## MVP Features (Minimum Viable Product)
+- One and two trait crosses (Determines how many letters are used to represent a trait | two-trait crosses represent allelic pairs of traits)
+- Simulate offspring
+- Chi square checks | Determining if two variables have influence over each other
 
 ## Timeline + Division of Work
 TBD
