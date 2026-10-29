@@ -28,19 +28,19 @@ Donations page
 - Prachi: Research different types of genes > Pick a sample set of genes > Pick a sample flower species [In conjunction with Dennis]
 - Dennis: Look into probabilities and statistics with gene crossing [In conjunction with Prachi]
 - Angel: Determine the best way to host a web page for the final product > Look into how to integrate a unity web build onto a web page
-- Keegan: 
+- Keegan: Craft project name ideas > Draft a logo
 
 ### Week 2: Draft the framework and data structures to be used for the simulation
-- Prachi:
-- Dennis:
-- Angel: 
+- Prachi: 
+- Dennis: Organize research findings to be put into a codified structure
+- Angel: Work on hosing a web page for a unity project
 - Keegan: Creating data structures to be used in a crossbreeding simulation
 
-Week 3:
+### Week 3:
 
-Week 4:
+### Week 4:
 
-Week 5:
+### Week 5:
 
 Week 6:
 
