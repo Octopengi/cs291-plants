@@ -43,7 +43,7 @@ Donations page
 - Keegan: Creating data structures to be used in a crossbreeding simulation | Implementing crossbreeding functions [In conjunction with Dennis] | Determine the best way to graphically represent modularly generated flowers in a Unity environment
 
 ### Week 3: Implementing the framework and web page of the final product
-- Prachi: 
+- Prachi: Fill in the Sources and References section with verified sources on genetics. Write test cases of known crosses with correct results, to validate the simulation in Week 4
 - Dennis: Developing probability based quiz questions and answers to be implemented in the self-quiz portion of the project [In conjunction with Keegan]
 - Angel: Prove the ability to run a web build of a Unity project on a web page [In conjunction with Keegan] | Make any necessary display adjustments
 - Keegan: Provide a demo web build of a Unity project to display on a web page, and make appropriate UI adjustments [In conjunction with Angel] | Develop code and UI for the self-quiz portion of the program [In conjunction with Dennis]
@@ -66,7 +66,7 @@ Keegan Wills: Main Unity Developer
 
 Dennis Shvabskiy: 
 
-Prachi Patel: 
+Prachi Patel: Genetics Researcher and Tester
 
 Angel Bahamon: Main Web Developer
 
