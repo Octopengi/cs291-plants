@@ -64,7 +64,7 @@ Donations page
 
 Keegan Wills: Main Unity Developer
 
-Dennis Shvabskiy: 
+Dennis Shvabskiy: Mathematical and Data Structures Architect
 
 Prachi Patel: Genetics Researcher and Tester
 
@@ -80,3 +80,7 @@ TBD
 - OpenStax.org | Textbook Resources on Gene Inheritance
 - - https://openstax.org/books/concepts-biology/pages/8-2-laws-of-inheritance
 - - https://openstax.org/books/concepts-biology/pages/8-3-extensions-of-the-laws-of-inheritance
+- National Institute of Health
+- - https://pmc.ncbi.nlm.nih.gov/articles/PMC3189816/
+- LibreTexts | Punnett Squares, and Chi-Squares
+- - https://bio.libretexts.org/Bookshelves/Biotechnology/Bio-OER_(CUNY)/09%3A_Genetics/9.04%3A_Probability_and_Chi-Square_Analysis
