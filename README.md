@@ -77,4 +77,6 @@ Testing with biology professors
 TBD
 
 ## Sources and References
-TBD
+- OpenStax.org | Textbook Resources on Gene Inheritance
+- - https://openstax.org/books/concepts-biology/pages/8-2-laws-of-inheritance
+- - https://openstax.org/books/concepts-biology/pages/8-3-extensions-of-the-laws-of-inheritance
