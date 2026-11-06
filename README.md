@@ -50,7 +50,7 @@ Donations page
 
 ### Week 4: Demoing programs and validating outputs
 - Prachi: 
-- Dennis: 
+- Dennis: Reaching out to local biology professors for program demoing
 - Angel: 
 - Keegan: 
 
