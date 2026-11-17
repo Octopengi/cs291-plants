@@ -1,5 +1,7 @@
 # Nu-Genes
 
+![usu](https://github.com/Octopengi/cs291-plants/blob/main/logos/Nu-Genes_Logo.png?raw=true)
+
 ## Problem Statement
 Very often, when students are studying genetics, it can be difficult to understand the full extent as to how genes behave and blend when parents produce offspring. Despite early on being taught about dominant and nondominant genes, it is still commonly misunderstood that many kinds of genes are a fifty-fifty split in offspring.
 
