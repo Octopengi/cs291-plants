@@ -1,0 +1,9 @@
+{
+    "Shape": {
+        "L": 0, "l": 1
+    },
+    "Relation": [
+        ["Dom", "Dom"],
+        ["Rec", "Rec"]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "Place": {
+        "A": 0, "a": 1
+    },
+    "Relation": [
+        ["Dom", "Dom"],
+        ["Rec", "Rec"]
+    ]
+}

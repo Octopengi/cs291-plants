@@ -1,0 +1,9 @@
+{
+    "Height": {
+        "T": 0, "t": 1
+    },
+    "Relation": [
+        ["Dom", "Dom"],
+        ["Rec", "Rec"]
+    ]
+}
