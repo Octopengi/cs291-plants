@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 847c917d07e33bc45b33a4c066858e67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5066819194945833758
+    second: NuBloom-YellowSPots_0
+  - first:
+      213: 4850597038971495488
+    second: NuBloom-YellowSPots_1
+  - first:
+      213: -8709378964280578364
+    second: NuBloom-YellowSPots_2
+  - first:
+      213: 8761033842816437567
+    second: NuBloom-YellowSPots_3
+  - first:
+      213: -4101633711804029034
+    second: NuBloom-YellowSPots_4
+  - first:
+      213: 5666652125338312704
+    second: NuBloom-YellowSPots_5
+  - first:
+      213: -6242074526663912855
+    second: NuBloom-YellowSPots_6
+  - first:
+      213: 3014561386289301040
+    second: NuBloom-YellowSPots_7
+  - first:
+      213: 4701694421702892821
+    second: NuBloom-YellowSPots_8
+  - first:
+      213: 1926015479500142081
+    second: NuBloom-YellowSPots_9
+  - first:
+      213: -495894558391675561
+    second: NuBloom-YellowSPots_10
+  - first:
+      213: 8133963112403866681
+    second: NuBloom-YellowSPots_11
+  - first:
+      213: -5913993308665105174
+    second: NuBloom-YellowSPots_12
+  - first:
+      213: 7711600461433028854
+    second: NuBloom-YellowSPots_13
+  - first:
+      213: 1882302973150415065
+    second: NuBloom-YellowSPots_14
+  - first:
+      213: -6815951732129034588
+    second: NuBloom-YellowSPots_15
+  - first:
+      213: -135935641980702890
+    second: NuBloom-YellowSPots_16
+  - first:
+      213: -5825416137299895400
+    second: NuBloom-YellowSPots_17
+  - first:
+      213: -6573546021348761516
+    second: NuBloom-YellowSPots_18
+  - first:
+      213: -7570910644006817158
+    second: NuBloom-YellowSPots_19
+  - first:
+      213: 4016591076472195520
+    second: NuBloom-YellowSPots_20
+  - first:
+      213: -7297049868952065283
+    second: NuBloom-YellowSPots_21
+  - first:
+      213: -6263109130963564525
+    second: NuBloom-YellowSPots_22
+  - first:
+      213: 4562687865779025416
+    second: NuBloom-YellowSPots_23
+  - first:
+      213: -5809891093940303491
+    second: NuBloom-YellowSPots_24
+  - first:
+      213: 6530977121219759889
+    second: NuBloom-YellowSPots_25
+  - first:
+      213: -781473997917050039
+    second: NuBloom-YellowSPots_26
+  - first:
+      213: -6865336633737249134
+    second: NuBloom-YellowSPots_27
+  - first:
+      213: 8602460799377611752
+    second: NuBloom-YellowSPots_28
+  - first:
+      213: 492732561354608629
+    second: NuBloom-YellowSPots_29
+  - first:
+      213: -3313096136456606084
+    second: NuBloom-YellowSPots_30
+  - first:
+      213: -4100285536200491364
+    second: NuBloom-YellowSPots_31
+  - first:
+      213: 3068543861891147498
+    second: NuBloom-YellowSPots_32
+  - first:
+      213: -3247504032075327603
+    second: NuBloom-YellowSPots_33
+  - first:
+      213: -3914164850980523542
+    second: NuBloom-YellowSPots_34
+  - first:
+      213: -3769636906632456009
+    second: NuBloom-YellowSPots_35
+  - first:
+      213: 4599935723690897614
+    second: NuBloom-YellowSPots_36
+  - first:
+      213: -6732244323087987512
+    second: NuBloom-YellowSPots_37
+  - first:
+      213: -5805878197479754665
+    second: NuBloom-YellowSPots_38
+  - first:
+      213: 7746345867317388264
+    second: NuBloom-YellowSPots_39
+  - first:
+      213: -5643437320862648102
+    second: NuBloom-YellowSPots_40
+  - first:
+      213: -5073762092183747867
+    second: NuBloom-YellowSPots_41
+  - first:
+      213: -3075151582677745508
+    second: NuBloom-YellowSPots_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47f1099ca0fa9b0800000000000000
+      internalID: -5066819194945833758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 167
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0442570be48c05340800000000000000
+      internalID: 4850597038971495488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 148
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceebcbe9f1122780800000000000000
+      internalID: -8709378964280578364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dcf32bcd1759970800000000000000
+      internalID: 8761033842816437567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6976729ded11417c0800000000000000
+      internalID: -4101633711804029034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000a084b51ef3ae40800000000000000
+      internalID: 5666652125338312704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962dea83a42bf59a0800000000000000
+      internalID: -6242074526663912855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0360267eb9fd5d920800000000000000
+      internalID: 3014561386289301040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d59087a26cf3140800000000000000
+      internalID: 4701694421702892821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1067287cfd49aba10800000000000000
+      internalID: 1926015479500142081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d309c68a3e19f0800000000000000
+      internalID: -495894558391675561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93496faea54a1e070800000000000000
+      internalID: 8133963112403866681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 129
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4baf06b664deda0800000000000000
+      internalID: -5913993308665105174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0447903cb150b60800000000000000
+      internalID: 7711600461433028854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 117
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8ca4ac4984f1a10800000000000000
+      internalID: 1882302973150415065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae8d381300e861a0800000000000000
+      internalID: -6815951732129034588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fec6bf04f0d1ef0800000000000000
+      internalID: -135935641980702890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b596333e6f72fa0800000000000000
+      internalID: -5825416137299895400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45023d2c8b216c4a0800000000000000
+      internalID: -6573546021348761516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ffb5b1e8bee690800000000000000
+      internalID: -7570910644006817158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c90121ad4ccdb730800000000000000
+      internalID: 4016591076472195520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa2dcc3ecbabba90800000000000000
+      internalID: -7297049868952065283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3184963cd67f419a0800000000000000
+      internalID: -6263109130963564525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8067eb4907ce15f30800000000000000
+      internalID: 4562687865779025416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d798bf905de1f5fa0800000000000000
+      internalID: -5809891093940303491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fc182d611b2aa50800000000000000
+      internalID: 6530977121219759889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b23f01a85a725f0800000000000000
+      internalID: -781473997917050039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e7d9aa4bc69b0a0800000000000000
+      internalID: -6865336633737249134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb102de484126770800000000000000
+      internalID: 8602460799377611752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4fc867a986d600800000000000000
+      internalID: 492732561354608629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee8cf0e948502d0800000000000000
+      internalID: -3313096136456606084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef811770cd817c0800000000000000
+      internalID: -4100285536200491364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae62ab17268a59a20800000000000000
+      internalID: 3068543861891147498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d875081f94c8ee2d0800000000000000
+      internalID: -3247504032075327603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae17cf06ec71ea9c0800000000000000
+      internalID: -3914164850980523542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b858ffa43f8fabc0800000000000000
+      internalID: -3769636906632456009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0b9305b2146df30800000000000000
+      internalID: 4599935723690897614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc433505734292a0800000000000000
+      internalID: -6732244323087987512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_38
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754b80e4a806d6fa0800000000000000
+      internalID: -5805878197479754665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3a4c0468c808b60800000000000000
+      internalID: 7746345867317388264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8bcc928ab7ea1b0800000000000000
+      internalID: -5643437320862648102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e28b8452406699b0800000000000000
+      internalID: -5073762092183747867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-YellowSPots_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90430cadedd255d0800000000000000
+      internalID: -3075151582677745508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NuBloom-YellowSPots_0: -5066819194945833758
+      NuBloom-YellowSPots_1: 4850597038971495488
+      NuBloom-YellowSPots_10: -495894558391675561
+      NuBloom-YellowSPots_11: 8133963112403866681
+      NuBloom-YellowSPots_12: -5913993308665105174
+      NuBloom-YellowSPots_13: 7711600461433028854
+      NuBloom-YellowSPots_14: 1882302973150415065
+      NuBloom-YellowSPots_15: -6815951732129034588
+      NuBloom-YellowSPots_16: -135935641980702890
+      NuBloom-YellowSPots_17: -5825416137299895400
+      NuBloom-YellowSPots_18: -6573546021348761516
+      NuBloom-YellowSPots_19: -7570910644006817158
+      NuBloom-YellowSPots_2: -8709378964280578364
+      NuBloom-YellowSPots_20: 4016591076472195520
+      NuBloom-YellowSPots_21: -7297049868952065283
+      NuBloom-YellowSPots_22: -6263109130963564525
+      NuBloom-YellowSPots_23: 4562687865779025416
+      NuBloom-YellowSPots_24: -5809891093940303491
+      NuBloom-YellowSPots_25: 6530977121219759889
+      NuBloom-YellowSPots_26: -781473997917050039
+      NuBloom-YellowSPots_27: -6865336633737249134
+      NuBloom-YellowSPots_28: 8602460799377611752
+      NuBloom-YellowSPots_29: 492732561354608629
+      NuBloom-YellowSPots_3: 8761033842816437567
+      NuBloom-YellowSPots_30: -3313096136456606084
+      NuBloom-YellowSPots_31: -4100285536200491364
+      NuBloom-YellowSPots_32: 3068543861891147498
+      NuBloom-YellowSPots_33: -3247504032075327603
+      NuBloom-YellowSPots_34: -3914164850980523542
+      NuBloom-YellowSPots_35: -3769636906632456009
+      NuBloom-YellowSPots_36: 4599935723690897614
+      NuBloom-YellowSPots_37: -6732244323087987512
+      NuBloom-YellowSPots_38: -5805878197479754665
+      NuBloom-YellowSPots_39: 7746345867317388264
+      NuBloom-YellowSPots_4: -4101633711804029034
+      NuBloom-YellowSPots_40: -5643437320862648102
+      NuBloom-YellowSPots_41: -5073762092183747867
+      NuBloom-YellowSPots_42: -3075151582677745508
+      NuBloom-YellowSPots_5: 5666652125338312704
+      NuBloom-YellowSPots_6: -6242074526663912855
+      NuBloom-YellowSPots_7: 3014561386289301040
+      NuBloom-YellowSPots_8: 4701694421702892821
+      NuBloom-YellowSPots_9: 1926015479500142081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 91423eafed22385448ac43b21027318c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5418876981490622870
+    second: NuBloom-RedSpots_0
+  - first:
+      213: -3860725956565618004
+    second: NuBloom-RedSpots_1
+  - first:
+      213: 1683475039511796764
+    second: NuBloom-RedSpots_2
+  - first:
+      213: -3246805027311482618
+    second: NuBloom-RedSpots_3
+  - first:
+      213: -4708081984676639501
+    second: NuBloom-RedSpots_4
+  - first:
+      213: 6016453303360071752
+    second: NuBloom-RedSpots_5
+  - first:
+      213: 4699642825802283423
+    second: NuBloom-RedSpots_6
+  - first:
+      213: 4271940702512809624
+    second: NuBloom-RedSpots_7
+  - first:
+      213: 8636384263027470171
+    second: NuBloom-RedSpots_8
+  - first:
+      213: -4741957937523428725
+    second: NuBloom-RedSpots_9
+  - first:
+      213: -109904307675732988
+    second: NuBloom-RedSpots_10
+  - first:
+      213: -5823173710291952188
+    second: NuBloom-RedSpots_11
+  - first:
+      213: 9110794821031610827
+    second: NuBloom-RedSpots_12
+  - first:
+      213: -5754002096312503234
+    second: NuBloom-RedSpots_13
+  - first:
+      213: -5035702878305497009
+    second: NuBloom-RedSpots_14
+  - first:
+      213: 7880946153692435319
+    second: NuBloom-RedSpots_15
+  - first:
+      213: 4302447296543080611
+    second: NuBloom-RedSpots_16
+  - first:
+      213: -7625821505892969763
+    second: NuBloom-RedSpots_17
+  - first:
+      213: -1001182073212981976
+    second: NuBloom-RedSpots_18
+  - first:
+      213: 4347766774574956038
+    second: NuBloom-RedSpots_19
+  - first:
+      213: -817793805934451902
+    second: NuBloom-RedSpots_20
+  - first:
+      213: -3249220426755426602
+    second: NuBloom-RedSpots_21
+  - first:
+      213: -5805557134976276110
+    second: NuBloom-RedSpots_22
+  - first:
+      213: -9065078489068337846
+    second: NuBloom-RedSpots_23
+  - first:
+      213: 6096860886665086587
+    second: NuBloom-RedSpots_24
+  - first:
+      213: -8019442733390956619
+    second: NuBloom-RedSpots_25
+  - first:
+      213: 6213931854440102717
+    second: NuBloom-RedSpots_26
+  - first:
+      213: -7485310825379965160
+    second: NuBloom-RedSpots_27
+  - first:
+      213: 9113914463403166847
+    second: NuBloom-RedSpots_28
+  - first:
+      213: -6767316736604454216
+    second: NuBloom-RedSpots_29
+  - first:
+      213: -3241517699289129609
+    second: NuBloom-RedSpots_30
+  - first:
+      213: -3412926587246823278
+    second: NuBloom-RedSpots_31
+  - first:
+      213: 6601870789094256015
+    second: NuBloom-RedSpots_32
+  - first:
+      213: 8119240202867159542
+    second: NuBloom-RedSpots_33
+  - first:
+      213: 6884278394429747733
+    second: NuBloom-RedSpots_34
+  - first:
+      213: -7302057607193571385
+    second: NuBloom-RedSpots_35
+  - first:
+      213: -7463600803136825608
+    second: NuBloom-RedSpots_36
+  - first:
+      213: 2744755588555182746
+    second: NuBloom-RedSpots_37
+  - first:
+      213: -8983807174250115857
+    second: NuBloom-RedSpots_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ed5b488184cc4b0800000000000000
+      internalID: -5418876981490622870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 166
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2b6cf8232fb6ac0800000000000000
+      internalID: -3860725956565618004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c565601a7ec5710800000000000000
+      internalID: 1683475039511796764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609852ca70801f2d0800000000000000
+      internalID: -3246805027311482618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fccee1216889aeb0800000000000000
+      internalID: -4708081984676639501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848a082276cbe7350800000000000000
+      internalID: 6016453303360071752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f997823104c783140800000000000000
+      internalID: 4699642825802283423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8960fca6f6bf84b30800000000000000
+      internalID: 4271940702512809624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fa68dcab99ad770800000000000000
+      internalID: 8636384263027470171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82721a316e213eb0800000000000000
+      internalID: -4741957937523428725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404e3bd4d9a897ef0800000000000000
+      internalID: -109904307675732988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd97acec5eef2fa0800000000000000
+      internalID: -5823173710291952188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9ce016e9b007e70800000000000000
+      internalID: 9110794821031610827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 123
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b074549da520b0800000000000000
+      internalID: -5754002096312503234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40503899e69d1ab0800000000000000
+      internalID: -5035702878305497009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77391d095cebe5d60800000000000000
+      internalID: 7880946153692435319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a04a47550d55bb30800000000000000
+      internalID: 4302447296543080611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd217b46eb3ab2690800000000000000
+      internalID: -7625821505892969763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82da6aa75361b12f0800000000000000
+      internalID: -1001182073212981976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e39c498de565c30800000000000000
+      internalID: 4347766774574956038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24323c9cddc96a4f0800000000000000
+      internalID: -817793805934451902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6bc4aac3378e2d0800000000000000
+      internalID: -3249220426755426602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279218e7b848e6fa0800000000000000
+      internalID: -5805557134976276110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a450c0e942f523280800000000000000
+      internalID: -9065078489068337846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7645a28ca66c9450800000000000000
+      internalID: 6096860886665086587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 87
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7f4a3a25735b090800000000000000
+      internalID: -8019442733390956619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bf26a49125c3650800000000000000
+      internalID: 6213931854440102717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81757d39675de1890800000000000000
+      internalID: -7485310825379965160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cc078bae02b7e70800000000000000
+      internalID: 9113914463403166847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2c2286849a512a0800000000000000
+      internalID: -6767316736604454216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ddab8a3d0d303d0800000000000000
+      internalID: -3241517699289129609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 53
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298baa2f959d2a0d0800000000000000
+      internalID: -3412926587246823278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dadf4218e8e9b50800000000000000
+      internalID: 6601870789094256015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1b7f962f55da070800000000000000
+      internalID: 8119240202867159542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b1eaa9bed98f50800000000000000
+      internalID: 6884278394429747733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfc9c15b41e9aa90800000000000000
+      internalID: -7302057607193571385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 23
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f695b70d96fb6890800000000000000
+      internalID: -7463600803136825608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92991b5aa4571620800000000000000
+      internalID: 2744755588555182746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NuBloom-RedSpots_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec473829fa135380800000000000000
+      internalID: -8983807174250115857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NuBloom-RedSpots_0: -5418876981490622870
+      NuBloom-RedSpots_1: -3860725956565618004
+      NuBloom-RedSpots_10: -109904307675732988
+      NuBloom-RedSpots_11: -5823173710291952188
+      NuBloom-RedSpots_12: 9110794821031610827
+      NuBloom-RedSpots_13: -5754002096312503234
+      NuBloom-RedSpots_14: -5035702878305497009
+      NuBloom-RedSpots_15: 7880946153692435319
+      NuBloom-RedSpots_16: 4302447296543080611
+      NuBloom-RedSpots_17: -7625821505892969763
+      NuBloom-RedSpots_18: -1001182073212981976
+      NuBloom-RedSpots_19: 4347766774574956038
+      NuBloom-RedSpots_2: 1683475039511796764
+      NuBloom-RedSpots_20: -817793805934451902
+      NuBloom-RedSpots_21: -3249220426755426602
+      NuBloom-RedSpots_22: -5805557134976276110
+      NuBloom-RedSpots_23: -9065078489068337846
+      NuBloom-RedSpots_24: 6096860886665086587
+      NuBloom-RedSpots_25: -8019442733390956619
+      NuBloom-RedSpots_26: 6213931854440102717
+      NuBloom-RedSpots_27: -7485310825379965160
+      NuBloom-RedSpots_28: 9113914463403166847
+      NuBloom-RedSpots_29: -6767316736604454216
+      NuBloom-RedSpots_3: -3246805027311482618
+      NuBloom-RedSpots_30: -3241517699289129609
+      NuBloom-RedSpots_31: -3412926587246823278
+      NuBloom-RedSpots_32: 6601870789094256015
+      NuBloom-RedSpots_33: 8119240202867159542
+      NuBloom-RedSpots_34: 6884278394429747733
+      NuBloom-RedSpots_35: -7302057607193571385
+      NuBloom-RedSpots_36: -7463600803136825608
+      NuBloom-RedSpots_37: 2744755588555182746
+      NuBloom-RedSpots_38: -8983807174250115857
+      NuBloom-RedSpots_4: -4708081984676639501
+      NuBloom-RedSpots_5: 6016453303360071752
+      NuBloom-RedSpots_6: 4699642825802283423
+      NuBloom-RedSpots_7: 4271940702512809624
+      NuBloom-RedSpots_8: 8636384263027470171
+      NuBloom-RedSpots_9: -4741957937523428725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
